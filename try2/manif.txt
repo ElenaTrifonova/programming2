@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: ElenaTrifonova
+Package-Name: Lab3_2/try2
+Main-Class: Main
+Class-Path: Lab3_2/try2
